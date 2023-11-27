@@ -83,7 +83,7 @@ defusedxml==0.7.1
 Deprecated==1.2.13
 deprecation==2.1.0
 dill==0.3.6
-distributed==2023.9.2
+distributed==2.30.0
 dm-tree==0.1.8
 dnspython==2.3.0
 docker==6.1.3
